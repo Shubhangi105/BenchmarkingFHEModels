@@ -4,7 +4,7 @@ In the digital age, the value of data has become paramount, driving innovation a
 
 ## Overview
 
-This repository explores the comparison of machine learning models on both encrypted and unencrypted data. The evaluation begins with fundamental models such as linear and logistic regression, progressively examining these models from an encryption perspective. The study extends to XGBoost applied to sentiment analysis on encrypted data encoded by TF-IDF vectorization and a Transformer. Additionally, we delve into non-linear models, constructing an encrypted neural network and an attention-encrypted transformer.
+This repository explores the comparison of machine learning models on both encrypted and unencrypted data. The evaluation begins with fundamental models such as linear and logistic regression, progressively examining these models from an encryption perspective. The study extends to XGBoost applied to sentiment analysis on encrypted data encoded by TF-IDF vectorization and a Transformer. Additionally, we delve into non-linear models, constructing a neural network incorporating encryption and an attention-encrypted transformer.
 
 ## Results
 
